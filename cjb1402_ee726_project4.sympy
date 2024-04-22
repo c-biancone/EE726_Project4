@@ -1,0 +1,4 @@
+import sympy
+import sympytex
+sympytex.openout('cjb1402_ee726_project4')
+sympytex.endofdoc()
